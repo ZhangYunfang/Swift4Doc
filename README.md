@@ -5,10 +5,10 @@
 
 ### 目录
 * [介绍](#介绍)
-* [The Basics 上](#The Basics1)
-* [The Basics 下](#The Basics2)
-* [Basic Operators 上](#Basic Operators1)
-* [Basic Operators 下](#Basic Operators2)
+* [The Basics 上](#TheBasics1)
+* [The Basics 下](#TheBasics2)
+* [Basic Operators 上](#BasicOperators1)
+* [Basic Operators 下](#BasicOperators2)
 
 ### <a id="介绍"></a> 介绍：
  **我们会不定期的更新翻译文章, Guards翻译组会持续发布. 如感兴趣,可以关注我们的[简书](http://www.jianshu.com/u/e6c8dda77e26)**
@@ -18,7 +18,7 @@
 > `想成为我们中一员?  是的, 我们正在招募对翻译感兴趣的小伙伴, 如果你想提高阅读英语文档的水平, 如果你不甘寂寞, 如果你想为广大开发者做点事. QQ:835087646`
 
 
-### <a id="The Basics1"></a> The Basics 上：[http://www.jianshu.com/p/13262bd2e453](http://www.jianshu.com/p/13262bd2e453)
-### <a id="The Basics2"></a> The Basics 下：[http://www.jianshu.com/p/f07aa4adcc9a](http://www.jianshu.com/p/f07aa4adcc9a)
-### <a id="Basic Operators1"></a> Basic Operators 上: [http://www.jianshu.com/p/6d1f222009a2](http://www.jianshu.com/p/6d1f222009a2)
-### <a id="Basic Operators2"></a> Basic Operators 下：[http://www.jianshu.com/p/a3de59290e75](http://www.jianshu.com/p/a3de59290e75)
+### <a id="TheBasics1"></a> The Basics 上：[http://www.jianshu.com/p/13262bd2e453](http://www.jianshu.com/p/13262bd2e453)
+### <a id="TheBasics2"></a> The Basics 下：[http://www.jianshu.com/p/f07aa4adcc9a](http://www.jianshu.com/p/f07aa4adcc9a)
+### <a id="BasicOperators1"></a> Basic Operators 上: [http://www.jianshu.com/p/6d1f222009a2](http://www.jianshu.com/p/6d1f222009a2)
+### <a id="BasicOperators2"></a> Basic Operators 下：[http://www.jianshu.com/p/a3de59290e75](http://www.jianshu.com/p/a3de59290e75)
